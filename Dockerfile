@@ -6,4 +6,5 @@ RUN apk add --no-cache \
     netcat-openbsd \
     curl \
     bind-tools \
-    jq
+    jq \
+    nmap
