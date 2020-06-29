@@ -7,4 +7,5 @@ RUN apk add --no-cache \
     curl \
     bind-tools \
     jq \
-    nmap
+    nmap \
+    openssl
